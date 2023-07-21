@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+    <style type="text/css"">
+       .chiken,.beef,.sushi{
+           color: rgb(6, 6, 10)4, 4, 5);
+           width: 300px;
+           height: 200px;
+           border-radius: px;
+           margin: 20px;
+           padding: 0px;
+           border:1px solid #ff0000;
+           background:gray;
+           
+       }
+       .a{
+        background-color: brown;
+        color: black;
+        width: 100px;
+        height: 20px;
+        position: relative;
+        left: 200px;
+        top: 222;
+
+       }
+       
+    </style>
+</head>
+<body>
+    <h1><center>our menu</center></h1>
+    <div class="chiken"><div class="a"><h4><center>chiken</center></h4></div> <h4><center>orem ipsum dolor sit amet, consectetur
+        adipisicing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis nostrud exercitation ullamco
+        laboris nisi ut aliquip ex ea commodo consequat.</center>
+        </h4>
+        
+    </div> 
+   
+        
+</body>
+</html>
